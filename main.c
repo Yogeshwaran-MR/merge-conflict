@@ -1,4 +1,4 @@
-pseudo code
+pppseudo code
 {
 Initial Function()
 {
